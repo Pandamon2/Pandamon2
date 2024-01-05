@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-:panda_face: Introduction 🐼
+:panda_face: Introduction
 
 <br/>
 <br/>
