@@ -6,6 +6,11 @@
 <br/>
 <br/>
 
+:panda_face: Introduction
+
+<br/>
+<br/>
+
   ### 🎫 License
   빅데이터분석기사 (한국데이터산업진흥원, 2023.12)
    <br/>
