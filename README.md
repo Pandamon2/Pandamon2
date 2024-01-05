@@ -31,7 +31,8 @@ SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
  <br/>
 
 ### :train: Once I've Used
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
  <br/>
  <br/>
  
