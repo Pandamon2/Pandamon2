@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-### :beginner: Activity
+### :computer: Activity
 
 
   ### :snowman: License
