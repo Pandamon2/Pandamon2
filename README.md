@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-### :computer: Activity
+### :movie_camera: Activity
 
 
   ### :snowman: License
