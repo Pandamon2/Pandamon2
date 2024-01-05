@@ -7,6 +7,7 @@
 <br/>
 
 ### :panda_face: Introduction
+데이터 분석을 공부하고 있습니다.
 
 <br/>
 <br/>
