@@ -17,17 +17,18 @@
 
 <br/>
 <br/>
-  ### :snowman: License
-  빅데이터분석기사 (한국데이터산업진흥원, 2023.12)
-   <br/>
-  데이터분석 준전문가(ADSP) (한국데이터산업진흥원, 2023.06)
-   <br/>
-  SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
-   <br/>
-  컴퓨터활용능력 1급 (대한상공회의소, 2021.11)
-  
-   <br/>
-   <br/>
+
+### :snowman: License
+빅데이터분석기사 (한국데이터산업진흥원, 2023.12)
+ <br/>
+데이터분석 준전문가(ADSP) (한국데이터산업진흥원, 2023.06)
+ <br/>
+SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
+ <br/>
+컴퓨터활용능력 1급 (대한상공회의소, 2021.11)
+
+ <br/>
+ <br/>
 
 
 ![Pandamon2's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Pandamon2&show=reviews))
