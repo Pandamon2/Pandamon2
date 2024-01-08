@@ -13,6 +13,8 @@
 <br/>
 
 ### :movie_camera: Activity
+핀다 앱 사용성 데이터를 통한 대출신청 예측모델 개발(팀) (Linear Regression, XGBoost, LightGBM, CatBoost, RandomForest, 2022.9 ~ 2022.12)
+<br/>
 저수지 수위 예측 프로젝트(팀) (XGBoost, AutoML, 2023.07 ~ 2024.01)
 <br/>
 서울시 평균 기온 예측 대회(개인) - 상위 7.5%🥉 47/624 (Prophet, 2023.12.11 ~ 2024.01.02)
