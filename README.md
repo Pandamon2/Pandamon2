@@ -51,7 +51,7 @@ SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
 
 <br/>
 <br/>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hajun2317">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hajun2317">
 <br/>
 <br/>
 
