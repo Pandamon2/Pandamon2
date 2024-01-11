@@ -51,10 +51,14 @@ SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
 
 <br/>
 <br/>
+<br/>
+<br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hajun2317">
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
  
 ![Pandamon2's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Pandamon2&show=reviews))
 
