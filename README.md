@@ -51,7 +51,7 @@ SQL 개발자(SQLD) (한국데이터산업진흥원, 2023.04)
 
 <br/>
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hajun2317)](https://solved.ac/hajun2317)
+[[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hajun2317)](https://solved.ac/hajun2317)
 <br/>
 <br/>
 
