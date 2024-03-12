@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-![DACON 수상인증서](https://github.com/Pandamon2/Dacon/assets/78249454/7774fac4-5b35-4f82-ac48-c0bad4d54291)
+
 <br/>
 <br/>
 
