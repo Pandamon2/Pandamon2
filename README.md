@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-
+<img width="692" alt="image" src= "https://github.com/Pandamon2/Pandamon2/assets/78249454/2ffc2606-88c2-4e03-9895-4525768528fe">
 <br/>
 <br/>
 
